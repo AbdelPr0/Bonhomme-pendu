@@ -1,7 +1,18 @@
 <resources>
-    <string name="app_name">LePendu</string>
-    <string name="Debuter_le_jeu">Débuter le jeu</string>
-    <string name="Trouver_ce_mot">Trouver ce mot:</string>
-    <string name="le_mot_était">Le mot était</string>
-    <string name="rejouer">rejouer</string>
+    <string name="app_name">Le Pendu</string>
+    <string name="Debuter_le_jeu">Nouvelle partie</string>
+    <string name="Trouver_ce_mot">Devinez le mot</string>
+    <string name="le_mot_était">Le mot était :</string>
+    <string name="rejouer">Rejouer</string>
+    <string name="score_label">SCORE</string>
+    <string name="erreurs_label">ERREURS</string>
+    <string name="victoire">VICTOIRE !</string>
+    <string name="defaite">DÉFAITE…</string>
+    <string name="victoire_msg">Félicitations, vous avez trouvé le mot !</string>
+    <string name="defaite_msg">Vous avez été pendu…</string>
+    <string name="confirmer_reset">Nouvelle partie ?</string>
+    <string name="confirmer_msg">Abandonner la partie en cours et recommencer ?</string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+    <string name="sur_6">/ 6</string>
 </resources>

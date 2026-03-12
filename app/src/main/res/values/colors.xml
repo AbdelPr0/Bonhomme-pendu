@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Dark background palette -->
+    <color name="bg_dark">#0D1117</color>
+    <color name="bg_surface">#161B22</color>
+    <color name="bg_card">#1C2333</color>
+
+    <!-- Gold accent -->
+    <color name="gold_primary">#F0C040</color>
+    <color name="gold_dark">#B8960C</color>
+    <color name="gold_light">#FFE680</color>
+
+    <!-- State colors -->
+    <color name="correct_green">#3FB950</color>
+    <color name="correct_green_bg">#1A3D22</color>
+    <color name="wrong_red">#F85149</color>
+    <color name="wrong_red_bg">#3D1A1A</color>
+
+    <!-- Text -->
+    <color name="text_primary">#E6EDF3</color>
+    <color name="text_secondary">#7D8590</color>
+    <color name="text_disabled">#3A4A5A</color>
+
+    <!-- Keyboard buttons -->
+    <color name="btn_normal_bg">#1C2333</color>
+    <color name="btn_normal_border">#30363D</color>
+    <color name="btn_pressed_bg">#2D3748</color>
+
+    <!-- Lives indicators -->
+    <color name="life_active">#F85149</color>
+    <color name="life_lost">#2A2A2A</color>
+
+    <!-- Legacy colors required by Material theme -->
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
